@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio cache files
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Auto-generated files
+*.generated.cs
+
+# Log files
+*.log
+
+# Rider
+.idea/
+
+# Npm packages (se usar frontend com npm/yarn)
+node_modules/
+
+# Blazor WebAssembly AOT (se usar Ahead-of-Time compilation)
+**/aot/
+
+# Publish output
+publish/
+
+# Files created by JetBrains Rider
+*.sln.iml
+
+# Dotnet watch files
+.dotnetwatch/
+
+# OS files
+.DS_Store
+Thumbs.db
